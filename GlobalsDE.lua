@@ -20,38 +20,38 @@ function CreateLocalizationInfo()
 	-- help --
 	------------------------------------------------------------------------------------------
 	Strings.PluginHelp1 = "\n\nListe der Befehle:\n";
-	Strings.PluginHelp2 = "/OTR show - Schaufenster.\n";
-	Strings.PluginHelp3 = "/OTR hide - verstecke das Fenster.\n";
-	Strings.PluginHelp4 = "/OTR esc - Aktivieren oder deaktivieren Sie die Escape-Taste.\n";
-	Strings.PluginHelp5 = "/OTR alt - ALT-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
-	Strings.PluginHelp6 = "/OTR options - Zeigen Sie das Optionsfenster an\n";
-	Strings.PluginHelp7 = "/OTR toggle - Fenster ein-oder ausblenden\n\n";
+	Strings.PluginHelp2 = "/otr show - Zeigt das Fenster an.\n";
+	Strings.PluginHelp3 = "/otr hide - Blendet das Fenster aus.\n";
+	Strings.PluginHelp4 = "/otr esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.\n";
+	Strings.PluginHelp5 = "/otr alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
+	Strings.PluginHelp6 = "/otr options - Zeigt die Optionen an.\n";
+	Strings.PluginHelp7 = "/otr toggle - Fenster anzeigen/ausblenden.\n\n";
 	Strings.PluginCloseButton = "Fenster schlie\195\159en";
 	Strings.PluginVaultSaved = "Brust gespeichert";
 	Strings.PluginBagSaved = "BackPack gespeichert";
 	Strings.PluginISeeYou = "Ich Sehe Dich";
-	Strings.ButtonChecked = "\195\188berpr\195\188fen Sie die Plugins";
+	Strings.ButtonChecked = "Plugins \195\188berpr\195\188fen";
 	------------------------------------------------------------------------------------------
 	-- command texts --
 	------------------------------------------------------------------------------------------
-	Strings.PluginWindowShow = "Schaufenster.";
-	Strings.PluginWindowHide = "Verstecke das Fenster.";
+	Strings.PluginWindowShow = "Fenster wird angezeigt";
+	Strings.PluginWindowHide = "Fenster wird ausgeblendet";
 	------------------------------------------------------------------------------------------
 	-- option window --
 	------------------------------------------------------------------------------------------
 	Strings.PluginOptionsText = "OneToRuleThemAll Optionen";
 	Strings.PluginOption1 = "Zeigen Sie die \195\132nderungen zum Laden und Speichern an";
 	Strings.PluginOption2 = " Benachrichtigungen anzeigen";
-	Strings.PluginOptionValidate = "\195\132nderungen validieren";
-	Strings.PluginOptionShowWindow = "Zeigen Sie das Optionsfenster an";
+	Strings.PluginOptionValidate = "Speichern";
+	Strings.PluginOptionShowWindow = "Optionen werden angezeigt";
 	Strings.PluginOptionNotificationsDeactivated = "Benachrichtigungen deaktiviert";
 	Strings.PluginOptionNotificationsActivated = "Benachrichtigungen aktiviert";
 	------------------------------------------------------------------------------------------
 	-- Plugin description --
 	------------------------------------------------------------------------------------------
-	Strings.ButtonOK = "OK, danke f\195\188r die Info !!!";
+	Strings.ButtonOK = "Fenster schlie\195\159en";
 	Strings.ButtonLink = "Link zum Chat senden";
-	Strings.ShellMessage = "Sie k\195\182nnen es \195\188ber das Kompendium oder \195\188ber diesen Link herunterladen : ";
+	Strings.ShellMessage = "Du kannst das Plugin mit Hilfe von LOTRO Plugin Compendium installieren oder \195\188ber diesen Link herunterladen: ";
 	Strings.Description1 = "OneToRuleThemAll ist ein kleines Plugin, mit dem Sie schnell auf alle meine Addons zugreifen konnen\n" ..
 						"Sie konnen mit der linken Maustaste auf das rechte Symbol klicken, um ein Plugin zu laden\n" ..
 						"oder klicken Sie mit der rechten Maustaste, um es herunterzuladen\n" ..
